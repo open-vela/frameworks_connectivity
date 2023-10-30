@@ -1,0 +1,5 @@
+.kconfig
+Kconfig
+common/
+digitalkey/
+lyra_lite/
